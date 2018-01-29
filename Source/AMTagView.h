@@ -94,10 +94,6 @@ extern NSString * const AMTagViewNotification;
  */
 @property (nonatomic, strong) NSDictionary *userInfo;
 
-@property (nonatomic, strong) UILabel *labelText;
-@property (nonatomic, strong) UIButton *button;
-@property (nonatomic, strong) UIImageView *imageView;
-
 
 /** Setup a new tag
  *
